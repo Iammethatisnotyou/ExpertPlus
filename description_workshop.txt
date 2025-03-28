@@ -1,0 +1,6 @@
+Expert Plus is a mod which adds new accessories based on normal expert accessories improving on them.
+
+Feel free to check the github at https://github.com/Iammethatisnotyou/ExpertPlus
+
+Programming by Qucumberman
+Ideas & Art by seatro4
