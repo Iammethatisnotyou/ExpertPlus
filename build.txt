@@ -1,0 +1,4 @@
+name = ExpertPlus
+displayName = Expert Plus
+version = 0.2
+author = Qucumberman

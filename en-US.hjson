@@ -1,0 +1,44 @@
+Mods: {
+	ExpertPlus: {
+		Items: {
+			DestroyerCollar: {
+				DisplayName: Destroyer Collar
+				Tooltip:
+				'''
+				+15% Damage Reduction
+				'''
+			}
+			ConfusingProbe: {
+				DisplayName: Confusing Probe
+				Tooltip:
+				'''
+				20% Chance to dodge an attack
+				Dodging an attack summons illusion probes
+				'''
+			}
+			GooeyAlliance: {
+				DisplayName: Gooey Alliance
+				Tooltip:
+				'''
+				Shoots balls of gel and crystals
+				'''
+			}
+			RetinazersTowerShield: {
+				DisplayName: Retinazer's Tower Shield
+				Tooltip:
+				'''
+				Allows the user to dash
+				Dashing into an enemy will shoot an explosive change with heavy recoil
+				'''
+			}
+			SpazmatismsBuckler: {
+				DisplayName: Spazmatism's Buckler
+				Tooltip:
+				'''
+				Allows the user to dash
+				Dashing into an enemy inflict cursed inferno and broken armor
+				'''
+			}
+		}
+	}
+}

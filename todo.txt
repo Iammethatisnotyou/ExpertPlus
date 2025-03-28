@@ -1,0 +1,21 @@
+
+Terraria Mod Ideas
+
+NOTE
+When changing mod remove it from Tmod and copy over
+
+TMODPATH
+~/.local/share/Terraria/tModLoader/ModSources/
+rm -rf ~/.local/share/Terraria/tModLoader/ModSources/ExpertPlus/ && cp -r ~/Documents/ExpertPlus/ ~/.local/share/Terraria/tModLoader/ModSources/
+
+ID
+https://terraria.wiki.gg/wiki/Item_IDs
+
+DEFAULT SPRITES PATH
+~/.local/share/Steam/steamapps/common/Terraria/Content/Images
+For Example
+~/.local/share/Steam/steamapps/common/Terraria/Content/Images/Item_4007.xnb
+Turn the xnb to zip to png
+
+TITLE
+Expert Plus
