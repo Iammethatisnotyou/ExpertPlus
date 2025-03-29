@@ -1,19 +1,19 @@
 Mods: {
 	ExpertPlus: {
 		Items: {
-			DestroyerCollar: {
-				DisplayName: Destroyer Collar
-				Tooltip:
-				'''
-				+15% Damage Reduction
-				'''
-			}
 			ConfusingProbe: {
 				DisplayName: Confusing Probe
 				Tooltip:
 				'''
 				20% Chance to dodge an attack
 				Dodging an attack summons illusion probes
+				'''
+			}
+			DestroyerCollar: {
+				DisplayName: Destroyer Collar
+				Tooltip:
+				'''
+				+15% Damage Reduction
 				'''
 			}
 			GooeyAlliance: {

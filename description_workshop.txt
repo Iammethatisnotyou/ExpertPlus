@@ -1,5 +1,29 @@
 Expert Plus is a mod which adds new accessories based on normal expert accessories improving on them.
+Includes language support for English & French
 
+Items Include[
+	Confusing Probe
+	  20% Chance to dodge an attack
+	  dodging an attack summons illusion probes
+
+	Destroyer Collar
+	  +15% Damage Reduction
+	  6 Armor
+
+	Gooey Alliance
+	  Slimes will not attack you
+	  Shoots balls of gel and crystals
+
+	Retinazer's Tower Shield
+	  +6 Defenese
+	  Allows the user to dash
+	  Dashing into an enemy will shoot an explosive change with heavy recoil
+
+	Spazmatism's Buckler
+	  +4 Defense
+	  Allows the user to dash
+	  Dashing into an enemy inflics cursed inferno and broken armor
+]
 Feel free to check the github at https://github.com/Iammethatisnotyou/ExpertPlus
 
 For translation contact us.
