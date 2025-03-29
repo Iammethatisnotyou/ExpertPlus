@@ -44,7 +44,7 @@ The Destroyer Collar Grants 15% damage reduction and 6 defense.
 			Recipe recipe = CreateRecipe();
 			recipe.AddIngredient(ItemID.VolatileGelatin);
 			recipe.AddIngredient(ItemID.RoyalGel);
-			recipe.AddIngredient(ItemID.SoulofLight);
+			recipe.AddIngredient(ItemID.SoulofLight, 10);
 			recipe.AddTile(TileID.TinkerersWorkbench);
 			recipe.Register();
         	}

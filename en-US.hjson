@@ -20,6 +20,7 @@ Mods: {
 				DisplayName: Gooey Alliance
 				Tooltip:
 				'''
+				Slimes will not attack you
 				Shoots balls of gel and crystals
 				'''
 			}
@@ -28,7 +29,7 @@ Mods: {
 				Tooltip:
 				'''
 				Allows the user to dash
-				Dashing into an enemy will shoot an explosive change with heavy recoil
+				Dashing into an enemy will shoot an explosive charge with heavy recoil
 				'''
 			}
 			SpazmatismsBuckler: {

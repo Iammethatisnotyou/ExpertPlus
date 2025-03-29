@@ -6,7 +6,7 @@ When changing mod remove it from Tmod and copy over
 
 TMODPATH
 ~/.local/share/Terraria/tModLoader/ModSources/
-rm -rf ~/.local/share/Terraria/tModLoader/ModSources/ExpertPlus/ && cp -r ~/Documents/ExpertPlus/ ~/.local/share/Terraria/tModLoader/ModSources/
+rm -rf ~/.local/share/Terraria/tModLoader/ModSources/ExpertPlus/ && cp -r ~/Documents/tMod/ExpertPlus/ ~/.local/share/Terraria/tModLoader/ModSources/
 
 ID
 https://terraria.wiki.gg/wiki/Item_IDs

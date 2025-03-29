@@ -1,0 +1,45 @@
+Mods: {
+	ExpertPlus: {
+		Items: {
+			DestroyerCollar: {
+				DisplayName: Écharpe du Destructeur
+				Tooltip:
+				'''
+				Réduit dégâts prend pour 10%
+				'''
+			}
+			ConfusingProbe: {
+				DisplayName: Sonde de Confondre
+				Tooltip:
+				'''
+				Donne 20% chance d'éviter les attaques
+				Éviter les attaques faire un illusion sondes
+				'''
+			}
+			GooeyAlliance: {
+				DisplayName: Alliance de Gel
+				Tooltip:
+				'''
+				Les slimes devenit amicale
+				Lance des boules de gels et de cristal
+				'''
+			}
+			RetinazersTowerShield: {
+				DisplayName: Bouclier-Tour de Rétinaser
+				Tooltip:
+				'''
+				Permet le joueur à foncer dans les ennemis 
+				Précipiter dans des ennemis lancer un laser avec fort recul
+				'''
+			}
+			SpazmatismsBuckler: {
+				DisplayName: Bouclier de Spazmatisme
+				Tooltip:
+				'''
+				Permet le joueur à foncer dans les ennemis
+				Précipiter dans des ennemis et donner leur Brasier maudit et Armure brisée
+				'''
+			}
+		}
+	}
+}
