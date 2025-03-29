@@ -22,6 +22,7 @@ The Destroyer Collar Grants 15% damage reduction and 6 defense.
 		    Item.value = Item.sellPrice(0, 10);
 		    Item.rare = ItemRarityID.Expert;
 		    Item.stack = 1;
+		    Item.defense = 2;
 		}
 
 		public override void UpdateAccessory(Player player, bool hideVisual){
@@ -38,6 +39,8 @@ The Destroyer Collar Grants 15% damage reduction and 6 defense.
 			player.npcTypeNoAggro[NPCID.Crimslime] = true;
 
 			player.volatileGelatin = true;
+			player.VolatileGelatin(Item);
+			player.extraFall += 20;
 		}
 
 		public override void AddRecipes(){

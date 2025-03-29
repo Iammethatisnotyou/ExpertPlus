@@ -22,6 +22,7 @@ Mods: {
 				'''
 				Slimes will not attack you
 				Shoots balls of gel and crystals
+				Decrease fall damage
 				'''
 			}
 			RetinazersTowerShield: {

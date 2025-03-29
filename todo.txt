@@ -1,7 +1,11 @@
 
 Terraria Mod Ideas
 
-NOTE
+Fix Gel alliance
+Fix Confusing Probe
+Buff destroyer Collar
+
+Confusing Probe
 When changing mod remove it from Tmod and copy over
 
 TMODPATH
